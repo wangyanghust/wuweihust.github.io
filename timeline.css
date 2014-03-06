@@ -1,0 +1,80 @@
+body{
+	background-image: url(image/bg_white.png);
+}
+
+div{
+	display: block;
+}
+
+hr{
+	margin-top: 0px;
+}
+
+#main{
+	margin: 0 auto;
+	width: 700px;
+}
+
+.sub_pic{
+	width: 700px;
+	height: 250px;
+	
+}
+
+.sub_timeline{
+	background-image: url(image/line.png);
+	background-repeat: repeat-y;
+	background-position: center;
+	width: 65px;
+	height: 250px;
+	text-align: center;
+	float: left;
+	position: relative;
+}
+
+.sub_right{
+	width: 635px;
+	height: 250px;
+	float: left;
+	
+}
+
+.sub_title{
+	padding-top: 10px;
+	padding-left: 25px;
+	color: #5F5F5F;
+	font-family: Microsoft YaHei;
+	font-weight: bold;
+}
+
+.sub_img{
+	background-image: url(image/picture_bg.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+	width:220px; 
+	height:157px;
+	margin-top: 40px;
+	margin-left: 70px;
+}
+
+.myimg{
+	width: 206px;
+	height: 143px;
+	padding-top: 4px;
+}
+
+.year{
+	position: absolute;
+	font-family: Microsoft YaHei;
+	font-weight: bold;
+	color: #5F5F5F;
+	left: 13px;
+	top: 21px;	
+}
+
+#footer{	
+	color: #5F5F5F;
+	padding-top: 10px;
+	font-family: Microsoft YaHei;
+}
